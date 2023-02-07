@@ -59,7 +59,7 @@ To run the application, enter the command `ruby filename.rb`, where
 `filename.rb` is the relative path to the file you'd like to run:
 
 ```console
-$ ruby app.rb
+$ ]
 Hello world!
 ```
 
